@@ -11,3 +11,7 @@ with services consisting in :<br>
   * Credit risk prediction according to the client’s historical data( previous credits, balances, payment amounts etc..).
   * Info extraction from Bank documents using computer vision ( OCR ).
   * Deployment of the app on multiple platforms ( Web / desktop / mobile)
+
+### technologies used:
+NLP - Python - Rasa - Docker- Keras - NLTK - Spacy - OpenCV
+Node.Js - Quasar - Sklearn - Heroku - MongoDB - Plotly
